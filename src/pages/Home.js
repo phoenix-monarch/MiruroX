@@ -18,7 +18,7 @@ function Home({ changeMetaArr }) {
   const content = `Miruro. An ad-free anime streaming site. Catch your favourite shows and movies right here! 
     Help us by contributing to the project on github.`;
   const image =
-    'https://cdn.discordapp.com/attachments/985501610455224389/1041832015105884241/logo512.png';
+    'https://telegra.ph/file/63d36bb1074133a3d2f54.jpg';
   // React.useEffect(()=>{
   //   changeMetaArr("title", title)
   //   // console.log("Hlo")
